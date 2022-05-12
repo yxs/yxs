@@ -3,11 +3,13 @@ Hi there 👋 I'm **XueSong Ye**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+- 🤔 I’m looking for help with ...
 
-Websites:
+Activities: [Monthly Summary and Outlook](https://yxs.github.io/monthly/)
+
+Notes:
 
 - [SWE Notes: Data Structures and Algorithms, Domain Knowledge, System Design, Leadership.](https://yxs.github.io/swe-notes/)
-- [Monthly Summary and Outlook](https://yxs.github.io/monthly/)
 
 <!--
 **yxs/yxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

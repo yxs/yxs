@@ -1,7 +1,7 @@
 Hi there 👋 I'm **XueSong Ye(叶雪松)**
 
 - 🔭 I’m currently working on Backend
-- 🌱 I’m currently learning ?
+- 🌱 I’m currently learning Distribtued Systems
 - 🤔 I’m looking for help with ?
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/xuesongye/), [Facebook](https://www.facebook.com/xuesong.ye96), Discord `LuckyY#6395`, WeChat ``
 - 💬 Tech: [Hacker News](https://news.ycombinator.com/user?id=yexuesong), [StackExchange](https://stackexchange.com/users/11177644/xuesong-ye)

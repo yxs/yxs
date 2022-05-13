@@ -3,16 +3,15 @@ Hi there 👋 I'm **XueSong Ye**
 - 🔭 I’m currently working on Backend
 - 🌱 I’m currently learning ?
 - 🤔 I’m looking for help with ?
-- 😄 More: [Hacker News](https://news.ycombinator.com/user?id=yexuesong), [StackExchange](https://stackexchange.com/users/11177644/xuesong-ye), [YouTube](https://www.youtube.com/channel/UCrPZtHmt_ZZE2ZCTTui3W_Q)
-- 📫 How to reach me: [Instagram](https://instagram.com/xuesong.ye/), Discord `LuckyY#6395`, WeChat ``
+- 📫 How to reach me: [Facebook](https://www.facebook.com/xuesong.ye96), Discord `LuckyY#6395`, WeChat ``
+- 💬 Tech: [Hacker News](https://news.ycombinator.com/user?id=yexuesong), [StackExchange](https://stackexchange.com/users/11177644/xuesong-ye)
+- 👯 Lifestyle: [Instagram](https://instagram.com/xuesong.ye/), [YouTube](https://www.youtube.com/channel/UCrPZtHmt_ZZE2ZCTTui3W_Q), [Twitter](https://twitter.com/XueSongYe),[Reddit](https://www.reddit.com/user/TheOtherSideOfTheSea), [Quora](https://www.quora.com/profile/Xuesong-Ye)
 
----
+- 😄 More ⬇️
 
 Activities: [Monthly Summary and Outlook](https://yxs.github.io/monthly/)
 
-Notes:
-
-- [SWE Notes: Data Structures and Algorithms, Domain Knowledge, System Design, Leadership.](https://yxs.github.io/swe-notes/)
+Notes: [SWE Notes: Data Structures and Algorithms, Domain Knowledge, System Design, Leadership.](https://yxs.github.io/swe-notes/)
 
 <!--
 **yxs/yxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

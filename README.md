@@ -5,7 +5,6 @@ Hi there 👋 I'm **XueSong Ye(叶雪松)**
 - 🤔 I’m looking for help/opportunity with dive deep into the research field.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/xuesongye/), [Facebook](https://www.facebook.com/xuesong.ye96), Discord `LuckyY#6395`, WeChat ``
 - 💬 Tech: [Hacker News](https://news.ycombinator.com/user?id=yexuesong), [StackExchange](https://stackexchange.com/users/11177644/xuesong-ye)
-- 👯 Lifestyle: [Instagram](https://instagram.com/xuesong.ye/), [YouTube](https://www.youtube.com/channel/UCrPZtHmt_ZZE2ZCTTui3W_Q), [Twitter](https://twitter.com/XueSongYe), [Reddit](https://www.reddit.com/user/TheOtherSideOfTheSea), [Quora](https://www.quora.com/profile/Xuesong-Ye)
 
 - 😄 More ⬇️
 

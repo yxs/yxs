@@ -1,3 +1,3 @@
 I’m currently focus:
 
-post train/RL infra ↔ inference runtime
+post train/RL infra <-> inference

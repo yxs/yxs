@@ -1,3 +1,7 @@
-I’m currently focus:
+Hi, I'm
 
-post train/RL infra <-> inference
+Xuesong Ye 叶雪松
+
+Currently interested in
+
+post-train infra <-> inference

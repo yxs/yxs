@@ -4,4 +4,4 @@ Xuesong Ye 叶雪松
 
 Currently interested in
 
-post-train infra <-> inference
+post-train <-> inference
